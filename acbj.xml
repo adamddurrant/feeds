@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:bizj="http://bizjournals.com/ns/rss/"
+   xmlns:atom="http://www.w3.org/2005/Atom"
+   xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+   xmlns:content="http://purl.org/rss/1.0/modules/content/"
+   xmlns:media="http://search.yahoo.com/mrss/">
+   <channel>
+      <language>en-us</language>
+      <title>PugPig All Articles</title>
+      <description>PugPig All Articles</description>
+      <pubDate>Tue, 05 Mar 2024 16:55:00 +0000</pubDate>
+      <generator>bizjournals SyndAPI</generator>
+      <link>https://www.bizjournals.com</link>
+      <atom:link href="https://api.bizjournals.com/syndication/2.0/76ce5da5386b1f50a3ccf8b5b97c6e3c6a2f51ac/feed/10162?market=atlanta" rel="self" type="application/rss+xml"/>
+      <copyright>Copyright © 2024 American City Business Journals, Inc. and its licensors. All rights reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of bizjournals.</copyright>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240305:page_22369146</guid>
+         <dc:identifier>page_22369146</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>Are college athletes employees? Agency ruling reshapes debate</title>
+         <dc:creator>Andy Medici</dc:creator>
+         <bizj:author1>Andy Medici</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12441344/dsc076961.jpg</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/05/ncaa-nlrb-college-athletes-union-basketball.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Tue, 05 Mar 2024 13:03:58 +0000</pubDate>
+         <dcterms:modified>2024-03-05T16:29:48+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Albany Business Review</bizj:journals>
+         <bizj:journals>Albuquerque Business First</bizj:journals>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:journals>Austin Business Journal</bizj:journals>
+         <bizj:journals>Baltimore Business Journal</bizj:journals>
+         <bizj:journals>Birmingham Business Journal</bizj:journals>
+         <bizj:journals>Boston Business Journal</bizj:journals>
+         <bizj:journals>Buffalo Business First</bizj:journals>
+         <bizj:journals>Charlotte Business Journal</bizj:journals>
+         <bizj:journals>Chicago Business Journal</bizj:journals>
+         <bizj:journals>Cincinnati Business Courier</bizj:journals>
+         <bizj:journals>Cleveland Business Journal</bizj:journals>
+         <bizj:journals>Columbus Business First</bizj:journals>
+         <bizj:journals>Dallas Business Journal</bizj:journals>
+         <bizj:journals>Dayton Business Journal</bizj:journals>
+         <bizj:journals>Denver Business Journal</bizj:journals>
+         <bizj:journals>Houston Business Journal</bizj:journals>
+         <bizj:journals>Jacksonville Business Journal</bizj:journals>
+         <bizj:journals>Kansas City Business Journal</bizj:journals>
+         <bizj:journals>L.A. Business First</bizj:journals>
+         <bizj:journals>Louisville Business First</bizj:journals>
+         <bizj:journals>Memphis Business Journal</bizj:journals>
+         <bizj:journals>Milwaukee Business Journal</bizj:journals>
+         <bizj:journals>Nashville Business Journal</bizj:journals>
+         <bizj:journals>New York Business Journal</bizj:journals>
+         <bizj:journals>Orlando Business Journal</bizj:journals>
+         <bizj:journals>Pacific Business News (Honolulu)</bizj:journals>
+         <bizj:journals>Philadelphia Business Journal</bizj:journals>
+         <bizj:journals>Phoenix Business Journal</bizj:journals>
+         <bizj:journals>Pittsburgh Business Times</bizj:journals>
+         <bizj:journals>Portland Business Journal</bizj:journals>
+         <bizj:journals>Providence Business First</bizj:journals>
+         <bizj:journals>Sacramento Business Journal</bizj:journals>
+         <bizj:journals>San Antonio Business Journal</bizj:journals>
+         <bizj:journals>San Francisco Business Times</bizj:journals>
+         <bizj:journals>Silicon Valley Business Journal</bizj:journals>
+         <bizj:journals>Puget Sound Business Journal (Seattle)</bizj:journals>
+         <bizj:journals>South Florida Business Journal</bizj:journals>
+         <bizj:journals>St. Louis Business Journal</bizj:journals>
+         <bizj:journals>Tampa Bay Business Journal</bizj:journals>
+         <bizj:journals>Triad Business Journal</bizj:journals>
+         <bizj:journals>Triangle Business Journal</bizj:journals>
+         <bizj:journals>Minneapolis / St. Paul Business Journal</bizj:journals>
+         <bizj:journals>Washington Business Journal</bizj:journals>
+         <bizj:journals>Wichita Business Journal</bizj:journals>
+         <bizj:markets>bizjournals</bizj:markets>
+         <bizj:markets>albany</bizj:markets>
+         <bizj:markets>albuquerque</bizj:markets>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:markets>austin</bizj:markets>
+         <bizj:markets>baltimore</bizj:markets>
+         <bizj:markets>birmingham</bizj:markets>
+         <bizj:markets>boston</bizj:markets>
+         <bizj:markets>buffalo</bizj:markets>
+         <bizj:markets>charlotte</bizj:markets>
+         <bizj:markets>chicago</bizj:markets>
+         <bizj:markets>cincinnati</bizj:markets>
+         <bizj:markets>cleveland</bizj:markets>
+         <bizj:markets>columbus</bizj:markets>
+         <bizj:markets>dallas</bizj:markets>
+         <bizj:markets>dayton</bizj:markets>
+         <bizj:markets>denver</bizj:markets>
+         <bizj:markets>houston</bizj:markets>
+         <bizj:markets>jacksonville</bizj:markets>
+         <bizj:markets>kansascity</bizj:markets>
+         <bizj:markets>losangeles</bizj:markets>
+         <bizj:markets>louisville</bizj:markets>
+         <bizj:markets>memphis</bizj:markets>
+         <bizj:markets>milwaukee</bizj:markets>
+         <bizj:markets>nashville</bizj:markets>
+         <bizj:markets>newyork</bizj:markets>
+         <bizj:markets>orlando</bizj:markets>
+         <bizj:markets>pacific</bizj:markets>
+         <bizj:markets>philadelphia</bizj:markets>
+         <bizj:markets>phoenix</bizj:markets>
+         <bizj:markets>pittsburgh</bizj:markets>
+         <bizj:markets>portland</bizj:markets>
+         <bizj:markets>rhodeisland</bizj:markets>
+         <bizj:markets>sacramento</bizj:markets>
+         <bizj:markets>sanantonio</bizj:markets>
+         <bizj:markets>sanfrancisco</bizj:markets>
+         <bizj:markets>sanjose</bizj:markets>
+         <bizj:markets>seattle</bizj:markets>
+         <bizj:markets>southflorida</bizj:markets>
+         <bizj:markets>stlouis</bizj:markets>
+         <bizj:markets>tampabay</bizj:markets>
+         <bizj:markets>triad</bizj:markets>
+         <bizj:markets>triangle</bizj:markets>
+         <bizj:markets>twincities</bizj:markets>
+         <bizj:markets>washington</bizj:markets>
+         <bizj:markets>wichita</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/category/">The Playbook</category>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Career &amp; Workplace</category>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Government &amp; Regulations</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Human Resources</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">National</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Playbook</category>
+         <bizj:contentscore>10</bizj:contentscore>
+         <description>A recent decision from the National Labor Relations Board adds to a wave of worker-friendly rulings from the agency.</description>
+         <content:encoded>&lt;p&gt;A recent ruling by the National Labor Relations Board adds to a
+series of recent decisions from the agency on behalf of workers,
+with the decision in this case involving a group of prospective
+employees.&lt;/p&gt;
+&lt;p&gt;In a Feb. 5 ruling, a regional director for the NLRB in Boston
+said the men’s college basketball players at Dartmouth College are
+employees within the definition of the National Labor Relations Act
+and ruled that the 15 people on the team could vote on whether to
+unionize.&lt;/p&gt;
+&lt;p&gt;“It opens the door to a lot of interesting questions,” said J.T.
+Holt, a partner in law firm Reed Smith LLP’s labor and employment
+group.&lt;/p&gt;
+
+&lt;p&gt;Holt stressed that the NLRB decision is far from making
+unionization a certainty. The players will still have to vote on
+unionization — a vote is scheduled for Tuesday, March 5 — and
+Dartmouth can appeal the regional director’s decision to the full
+board. If either group dislikes the outcome there, it can appeal
+directly into the federal circuit court system and from there the
+Supreme Court.&lt;/p&gt;
+&lt;p&gt;Holt said the Dartmouth decision is in some ways a replay of the
+NLRB’s 2015 decision rejecting a petition by football players at
+Northwestern University to unionize, denying their claims they were
+employees. In that case, the students were receiving scholarships.
+At Dartmouth, the basketball players are not on scholarship, but
+the students are receiving remuneration in the form of merchandise
+and the value of their degree.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pillsburylaw.com/en/news-and-insights/nlrb-dartmouth-decision.html&quot;&gt;A blog post
+by law firm Pillsbury Winthrop Shaw Pittman LLP&lt;/a&gt; spelled out
+both the complexities of what might be ahead and what’s at
+stake.&lt;/p&gt;
+&lt;p&gt;“An ultimate decision in this case is still subject to the
+NLRB’s lengthy appeal process; nevertheless, absent congressional
+action, it is likely that higher education institutions will
+increasingly face external pressure to treat student-athletes as
+employees in the coming years,” the authors of the blog post
+wrote.&lt;/p&gt;
+&lt;p&gt;The decision by the NLRB regional director is the latest in a
+series of decisions and efforts by the NLRB on behalf of workers in
+recent years.&lt;/p&gt;
+&lt;p&gt;“The board has been active in the Biden administration and will
+continue to be for so long as the Biden administration is in place
+—&amp;nbsp;whether it’s this term or four [more] years if there is
+another term,” Holt said.&lt;/p&gt;
+&lt;p&gt;Those efforts include the so-called &lt;a href=&quot;https://www.nlrb.gov/news-outreach/news-story/board-issues-final-rule-on-joint-employer-status&quot;&gt;joint-employer rule, released in October&lt;/a&gt;,
+that dramatically expands how related companies have to approach
+unions and collective bargaining. &lt;a href=&quot;https://www.bizjournals.com/bizjournals/news/2023/08/25/labor-union-organizing-election-nlrb-government.html&quot;&gt;The NLRB also removed some procedural steps for union
+elections&lt;/a&gt;, substantially speeding up the process.&lt;/p&gt;
+&lt;p&gt;The&amp;nbsp;NLRB earlier last year said &lt;a href=&quot;https://www.bizjournals.com/bizjournals/news/2023/03/28/nlrb-nda-nondisparagement-rights-union.html&quot;&gt;the use of non-disparagement and non-disclosure
+agreements in severance agreements may violate federal labor
+laws&lt;/a&gt;.&amp;nbsp;Also last year, the NLRB overruled a litmus test
+established during the Trump administration in 2019 for &lt;a href=&quot;https://www.bizjournals.com/bizjournals/news/2023/06/15/nlrb-independent-contractor-rules-change.html&quot;&gt;how businesses classify independent contractors&lt;/a&gt;
+in favor of a test established in 2014, which broadens the test and
+would, in essence, categorize more workers as employees.&lt;/p&gt;
+&lt;p&gt;&quot;It certainly appears that there is a trend to push for an
+expansive definition of employee,&quot; Holt said.&lt;/p&gt;
+&lt;p&gt;Companies ultimately will have a harder time classifying workers
+as independent contractors&amp;nbsp;under &lt;a href=&quot;https://www.dol.gov/newsroom/releases/whd/whd20240109-1&quot;&gt;a new Department of
+Labor final rule that kicks in on March 11&lt;/a&gt;. The agency said the
+final rule&amp;nbsp;better aligns government regulations with
+“longstanding judicial precedent” and better adheres to the Fair
+Labor Standards Act.&lt;/p&gt;
+&lt;p&gt;The tug-of-war over who is and who is not an employee is closely
+tied to unionization efforts. Those who fall under the National
+Labor Relations Act gain unionization protections; those who do
+not, do not.&lt;/p&gt;
+&lt;p&gt;And despite high-profile union victories last year by &lt;a href=&quot;https://www.bizjournals.com/louisville/news/2023/08/23/teamster-ratify-labor-agreement-with-ups-inc.html&quot;&gt;workers at United Parcel Service Inc.&lt;/a&gt;, &lt;a href=&quot;https://www.bizjournals.com/albuquerque/news/2023/11/08/end-of-actos-strike.html&quot;&gt;actors&lt;/a&gt;, &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2023/09/25/hollywood-writers-reach-tentative-agreement.html&quot;&gt;writers&lt;/a&gt; and others, the overall union member rate
+within the &lt;a href=&quot;https://www.bls.gov/news.release/pdf/union2.pdf&quot;&gt;United States was at 10% in
+2023, down slightly from 10.1% in 2022&lt;/a&gt; — although the overall
+number of union members grew by about 139,000.&lt;/p&gt;
+&lt;p&gt;Meanwhile, the number of striking workers more than doubled from
+2022 to 2023, &lt;a href=&quot;https://www.ilr.cornell.edu/sites/default/files-d8/2024-02/Labor-Action-Tracker-2023-Annual-Report.pdf&quot;&gt;according to
+the Cornell-ILR Labor Action Tracker.&lt;/a&gt; That total counts 470
+work stoppages involving about 539,000 workers last year, up from
+433 work stoppages in 2022 involving 224,000 workers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Want more stories like this?&amp;nbsp;To stay up to date on the
+news and information to grow your business,&amp;nbsp;&lt;/em&gt;&lt;a href=&quot;https://promo.bizjournals.com/bizjournals/the-playbook/signup/&quot;&gt;&lt;em&gt;sign up for&amp;nbsp;The
+Playbook&amp;nbsp;newsletter.&lt;/em&gt;&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/12337309/gettyimages-931431806*200xx5500-3667-0-0.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/12337309/gettyimages-931431806*900xx5500-3667-0-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>A new NLRB ruling takes another look at the issue of college athletes as employees.</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240305:page_22371683</guid>
+         <dc:identifier>page_22371683</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>Braves add Truist Park amenities (Renderings)</title>
+         <dc:creator>Chris Fuhrmeister</dc:creator>
+         <bizj:author1>Chris Fuhrmeister</bizj:author1>
+         <bizj:author2>Simon Hans</bizj:author2>
+         <bizj:author3>Mark Crorigan</bizj:author3>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12561806/chris-fuhrmeister.jpg</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/05/truist-park-updates-2024-braves-season.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Tue, 05 Mar 2024 12:39:01 +0000</pubDate>
+         <dcterms:modified>2024-03-05T12:41:58+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Sports Business</category>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Food &amp; Lifestyle</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Sports Business</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Retailing &amp; Restaurants</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Derek Schiller</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Sporting Venues</category>
+         <bizj:contentscore>9</bizj:contentscore>
+         <description>The Braves are renovating Truist Park to improve the fan experience.</description>
+         <content:encoded>&lt;p&gt;The Atlanta Braves are pitching some new hospitality experiences
+at Truist Park this year.&lt;/p&gt;
+&lt;p&gt;The Braves are enhancing amenities already popular with fans
+while adding upgrades&amp;nbsp;to &quot;provide the unparalleled experience
+that visitors have come to expect at Truist Park,&quot; &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2024/02/28/battery-truist-park-mike-plant.html&quot;&gt;president and CEO Derek Schiller&lt;/a&gt; said in a
+prepared statement.&lt;/p&gt;
+&lt;p&gt;The renovations are part of a multiphase plan for improvements
+at Truist Park, according to the team. The first phase represents
+an investment of approximately $10 million.&lt;/p&gt;
+
+&lt;p&gt;New for the 2024 season will be a Blue Moon Beer Garden inside
+the Roof, according to a news release. The beer garden intends to
+serve multiple Molson Coors brands and a variety of food
+options.&lt;/p&gt;
+&lt;p&gt;Plans call for a renovated and expanded group hospitality space
+that overlooks the field adjacent to the beer garden. It will be
+able to accommodate groups as large as 210, per the release.&lt;/p&gt;
+&lt;p&gt;In left field, the Braves plan to debut a new group space called
+the Jim Beam Bourbon Decks behind Sections 142 and 143. This will
+include private access to a new bar, which will also serve
+customers on the concourse, according to the release. It will
+include two bars with a combined length of 60’ 6” — mirroring the
+distance between the pitcher’s mound and home plate — as well as a
+unique lighting fixture and game-used pitching rubber and home
+plate inset into the bar top.&lt;/p&gt;
+&lt;p&gt;The Braves plan to move Slice Pizza to Section 113. Bars on the
+first-and third-base sides of the terrace level will be upgraded,
+and all suites will be refurbished over the next four years, per
+the release.&lt;/p&gt;
+&lt;p&gt;Beyond renovating Truist Park's food and drink options, the
+Braves Clubhouse Store is set for a 1,500-square-foot expansion and
+redesign to &quot;provide a premium retail experience.&quot; New to the store
+will be a dedicated jersey walk-up shop that houses the majority of
+the jersey selection in the store, as well as a new game-used
+merchandise section, according to the release.&lt;/p&gt;
+&lt;p&gt;Changes to the store's layout and a new point-of-sale system are
+meant to speed up the shopping experience.&lt;/p&gt;
+&lt;p&gt;Schiller said the upgrades &quot;offer additional opportunities to
+create lasting memories at every game, concert and event inside
+Truist Park.&quot;&lt;/p&gt;
+&lt;p&gt;Detroit-based sports architecture firm Rossetti is working with
+the Braves on the renovations. Atlanta-based Impact Development
+Management is an adviser on the project.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2022/07/05/braves-revenue-world-series-mlb.html&quot;&gt;Truist Park has been a cash cow for the Braves&lt;/a&gt;
+since the team moved to the stadium in 2017.&lt;/p&gt;
+&lt;p&gt;Last year, the Braves generated $581.6 million in baseball
+revenue, which includes ticket sales, concessions, advertising
+sponsorships, suites and premium seat fees, as well as national and
+local broadcast rights, according to the team's earnings report.
+Baseball revenue increased 9% compared with 2022.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/12703708/patios-rendering-1-117*200xx2701-2701-1050-0.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/12703708/patios-rendering-1-117*600xx3601-2701-600-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>A rendering of the rooftop patio.</media:text>
+         </media:content>
+         <media:content url="https://media.bizj.us/view/img/12703709/patios-rendering-2-117*600xx3601-2701-600-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>A rendering of the rooftop patio.</media:text>
+         </media:content>
+         <media:content url="https://media.bizj.us/view/img/12703713/jim-beam-bourbon-decks*600xx900-675-150-0.png" medium="image">
+            <media:category>image</media:category>
+            <media:text>A rendering of the Jim Beam Bourbon Deck.</media:text>
+         </media:content>
+         <media:content url="https://media.bizj.us/view/img/12703710/entrance-signage-1*600xx1064-798-213-0.png" medium="image">
+            <media:category>image</media:category>
+            <media:text>A rendering of the Blue Moon Beer Garden entrance.</media:text>
+         </media:content>
+         <media:content url="https://media.bizj.us/view/img/12703712/blue-moon-brewing-company*600xx1184-888-8-0.png" medium="image">
+            <media:category>image</media:category>
+            <media:text>A rendering of the Blue Moon Beer Garden.</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240305:page_22371531</guid>
+         <dc:identifier>page_22371531</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>How a renowned photographer gives back to Atlanta</title>
+         <dc:creator>Rachel Cohen Noebes</dc:creator>
+         <bizj:author1>Rachel Cohen Noebes</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12688944/rachel-cohen.jpg</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/05/cam-kirk-photographer-morehouse-philanthropy.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Tue, 05 Mar 2024 12:33:09 +0000</pubDate>
+         <dcterms:modified>2024-03-05T12:33:09+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Education</category>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Philanthropy &amp; Nonprofits</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Education</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Cameron Kirkland</category>
+         <bizj:contentscore>9</bizj:contentscore>
+         <description>Cam Kirk, an expert photographer and philanthropist, spoke to the Chronicle about his latest projects.</description>
+         <content:encoded>&lt;p&gt;Cameron &quot;Cam Kirk&quot; Kirkland, is widely known in his industry as
+an expert photographer and a philanthropist. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The Morehouse College graduate, from Maryland, has been rooted
+in Atlanta for nearly two decades.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;He founded Cam Kirk Studios in 2017, a 7,000-square-foot
+photography safe space, which now books hundreds of appointments a
+month for established and up-and-coming artists.&lt;/p&gt;
+
+&lt;p&gt;He recently launched Collective Gallery, which he describes as a
+“label-like company for photographers.”&lt;/p&gt;
+&lt;p&gt;“After I was running the studio for about three or four years, I
+met so many talented individuals that just needed one little piece
+of guidance,&quot; Kirkland said. &quot;They needed one person to really
+believe in them, or one financial investment.”&lt;/p&gt;
+&lt;p&gt;That’s what sparked the Collective. Kirkland signed seven
+artists in his first year and invested $20,000 in each of their
+projects, along with the guidance of the Cam Kirk team.&lt;/p&gt;
+&lt;p&gt;“Some of our artists have gone on to work with Netflix, Adidas,
+Nike, Squarespace,&quot; he said. &quot;Our main thing was getting them to
+diversify their streams of income as creatives.”&lt;/p&gt;
+&lt;p&gt;Kirkland himself has worked with countless brands and musical
+talents from Migos to Gucci Mane. He credits Morehouse for
+anchoring him to the Atlanta community and says attending the
+school is “one of the best decisions” he ever made.&lt;/p&gt;
+&lt;p&gt;Kirkland’s team regularly takes on interns from Atlanta’s
+historically Black colleges and universities (HBCUs) and currently
+has students from Morehouse, Spelman College and Clark Atlanta
+University. There’s now a program at Morehouse for content
+creation. Students tell Kirk they came to the school because of
+him.&lt;/p&gt;
+&lt;p&gt;Recently, he told the Chronicle, he visited the program for a
+day and donated $10,000.&lt;/p&gt;
+&lt;p&gt;He’s also behind the Downtown Atlanta clean-up effort “Spin the
+Block.” It started as an initiative to clear trash around the
+community in 2019 and now happens about every quarter.&lt;/p&gt;
+&lt;p&gt;Kirkland adopted Forsyth and Brotherton streets, he said, after
+City of Atlanta officials told him that they were unable to provide
+recycling in that area. He also gifted $25,000 toward the
+project.&lt;/p&gt;
+&lt;p&gt;The next event will likely be around Earth Day in April,
+Kirkland said.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/12703669/camkirkpress20238*200xx8192-5461-0-2.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/12703669/camkirkpress20238*900xx8192-5461-0-2.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>Cam Kirk in his photography studio.</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240305:page_22371606</guid>
+         <dc:identifier>page_22371606</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>Buckhead estate sells for highest price in years</title>
+         <dc:creator>Chris Fuhrmeister</dc:creator>
+         <bizj:author1>Chris Fuhrmeister</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12561806/chris-fuhrmeister.jpg</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/05/buckhead-mansion-sold-price.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Tue, 05 Mar 2024 12:22:23 +0000</pubDate>
+         <dcterms:modified>2024-03-05T12:22:23+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/category/">Luxury Living 2024</category>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Residential Real Estate</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Residential Real Estate</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Shanna Smith</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Thomas Noonan</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Tom Claugus</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Bonneau Ansley III</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Steve Harvey</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Tyler Perry</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Jane Hollman</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Kim Noonan</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Residential Real Estate Agencies</category>
+         <bizj:contentscore>10</bizj:contentscore>
+         <description>It was the highest residential price in Atlanta since 2020.</description>
+         <content:encoded>&lt;p&gt;A Buckhead estate in metro Atlanta's wealthiest ZIP code just
+fetched the highest home price in years.&lt;/p&gt;
+&lt;p&gt;Thomas E. and Kimbrough P. Noonan sold the Riverly Road estate
+next to the Chattahoochee River for about $12.9 million,
+Atlanta-based Dorsey Alston Realtors announced. Dorsey Alston's
+Shanna Smith was the listing agent.&lt;/p&gt;
+&lt;p&gt;The sale closed March 4.&lt;/p&gt;
+
+&lt;p&gt;The price was the highest for a residential property in the city
+of Atlanta since May 2020, when comedian &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2020/06/02/steve-harvey-wife-bought-ex-tyler-perry-estate.html&quot;&gt;Steve Harvey and his wife bought a Buckhead estate
+from film mogul Tyler Perry&lt;/a&gt; for $15 million.&lt;/p&gt;
+&lt;p&gt;Thomas Noonan is the former president and CEO of &lt;a href=&quot;https://www.bizjournals.com/atlanta/stories/2006/08/21/daily18.html#:~:text=Sign%20in-,A%20business%20started%20at%20Georgia%20Tech%20will%20soon%20become%20part,Tech%20engineering%20student%20Christopher%20Klaus&quot;&gt;Internet Security Systems Inc., which International
+Business Machines Corp. (NYSE: IBM) bought&lt;/a&gt; for $1.3 billion in
+2006. He was an &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2015/08/27/atlantas-most-admired-ceo-awards-2015-slideshow.html&quot;&gt;Atlanta Business Chronicle's Most Admired CEOs&lt;/a&gt;
+honoree in 2015.&lt;/p&gt;
+&lt;p&gt;&quot;Shanna understood the uniqueness of the house and the property,
+and she was meticulous in every aspect of the marketing and sale of
+our home,&quot; said Kim Noonan in a prepared statement.&lt;/p&gt;
+&lt;p&gt;Tom Claugus, founder of Atlanta-based GMT Capital Corp., was the
+buyer, a person with knowledge of the transaction told Atlanta
+Business Chronicle. Bonneau Ansley III of Ansley Real Estate
+Christie's International represented Claugus, according to First
+Multiple Listing Service.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2023/08/28/buckhead-mansion-for-sale-chattahoochee-river.html&quot;&gt;Dorsey Alston listed the estate in August&lt;/a&gt;. It had
+been on the market for more than a year prior to the firm's
+listing, Smith said.&lt;/p&gt;
+&lt;p&gt;&quot;It is an exceptional property, and our goal was to attract
+discerning buyers,&quot; she said in a prepared statement.&lt;/p&gt;
+&lt;p&gt;The estate includes a roughly 14,000-square-foot main house,
+carriage house, horse barn with three stalls, paddock and riding
+trails, Har-Tru clay tennis court, Par 3 golf hole, and six-car
+garage.&lt;/p&gt;
+&lt;p&gt;The house was built in 2000, per the listing. Atlanta-based
+architecture firm William T. Baker and Associates designed the
+house. Atlanta-based Suzanne Kasler Interiors was the interior
+designer.&lt;/p&gt;
+&lt;p&gt;The architect took inspiration from a modern day English Country
+estate for the design, according to Dorsey Alston listing. The
+exterior of the house includes hand-carved Indiana limestone, old
+Carolina wood-moulded brick and a Vermont slate roof.&lt;/p&gt;
+&lt;p&gt;Inside, the foyer leads to a stairwell with detailed ironwork
+and hand-carved moldings, meant to be reminiscent of the Swan House
+at Atlanta History Center. The main level includes a renovated
+kitchen, designed by Jane Hollman with Studio Entourage, with white
+marble countertops and Wolf and SubZero appliances. The keeping
+room has fireside seating, and the breakfast room opens to a large
+living room with floor-to-ceiling windows. The formal dining room
+features hand-painted de Gournay wall coverings. The primary
+bedroom suite has two bathrooms, each with large closets, and a
+fireside sitting room that opens to a poolside terrace.&lt;/p&gt;
+&lt;p&gt;The upper level includes five bedroom suites, an additional
+laundry room, den and great room. The lower terrace level has a
+media room with a projection screen, home office, billiard room,
+game room, gym, sauna and steam room, and a wine cellar and tasting
+room. There is a craft and wrapping room, as well.&lt;/p&gt;
+&lt;p&gt;The carriage house has a full kitchen, living room, bedroom and
+full bathroom, along with a loggia with a grilling patio and pizza
+oven overlooking the tennis court.&lt;/p&gt;
+&lt;p&gt;Additional amenities include a heated saltwater pool and spa,
+automated entry gate, and whole-house generator.&lt;/p&gt;
+&lt;p&gt;The estate is within Atlanta's 30327 ZIP code, the metro area's
+most affluent. There were 364 home sales with a median price of
+about $1.3 million in 30327 during the 12 months ending Feb. 29.
+The median price was 5.9% higher than the previous 12-month
+period.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/12585434/1-print-3490-riverly-twilight-3*200xx3285-3285-822-0.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/12585434/1-print-3490-riverly-twilight-3*600xx4380-3285-274-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>An estate off Buckhead's Riverly Road is for sale and priced at $12.9 million.</media:text>
+         </media:content>
+         <media:content url="https://media.bizj.us/view/img/12585435/10-print-3500-riverly-91*600xx5340-4005-331-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>The house was build in 2000, per the listing. Atlanta-based architecture firm William T. Baker and Associates designed the house. Atlanta-based Suzanne Kasler Interiors was the interior designer.</media:text>
+         </media:content>
+         <media:content url="https://media.bizj.us/view/img/12585301/19-print-3500-riverly-181*600xx5337-4003-333-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>The formal dining room features hand-painted de Gournay wall coverings.</media:text>
+         </media:content>
+         <media:content url="https://media.bizj.us/view/img/12585436/96-print-3500-riverly-953*600xx5264-3948-4-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>The property spans roughly 12 acres.</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240305:page_22369409</guid>
+         <dc:identifier>page_22369409</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>How consulting firm Pathbuilders grew by 40%</title>
+         <dc:creator>Crystal Edmonson</dc:creator>
+         <bizj:author1>Crystal Edmonson</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12076318/crystaledmonson2014-1.jpg</bizj:authorimage1>
+         <dc:type>Daily</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/05/pathbuilders-ceo-helene-lollis-company-growth.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Tue, 05 Mar 2024 09:00:00 +0000</pubDate>
+         <dcterms:modified>2024-02-28T16:24:54+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/category/">On Leadership 2021</category>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Career &amp; Workplace</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Human Resources</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Diversity, Equity and Inclusion</category>
+         <bizj:contentscore>10</bizj:contentscore>
+         <description>The company's CEO went from developing plastics to people.</description>
+         <content:encoded>&lt;p&gt;When the Covid-19 pandemic ramped up in 2020, the leadership
+development firm Pathbuilders was forced to move its long-standing
+education and mentoring programs online.&lt;/p&gt;
+&lt;p&gt;“We used to do everything live, in ballrooms,” said &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2020/11/17/q-a-helene-lollis-atlanta-2020-most-admired-ceo.html&quot;&gt;Helene Lollis&lt;/a&gt;, president and CEO of Pathbuilders,
+admitting that for her, the shift was akin to “killing a sacred
+cow.”&lt;/p&gt;
+&lt;p&gt;But the pandemic just might have helped the Atlanta-based firm
+do for itself what it has aimed to do for aspiring women leaders
+since 1995 — build new pathways.&lt;/p&gt;
+
+&lt;p&gt;The result of its redesigned mentoring model and technology
+upgrades “radically changed our reach,” Lollis said.&lt;/p&gt;
+&lt;p&gt;“We’re 40% bigger today than we were before the pandemic,” she
+said.&lt;/p&gt;
+&lt;p&gt;Lollis, an engineer by trade, participated in a mentoring
+program organized by the company before it was known as
+Pathbuilders. The experience not only changed her career
+trajectory, it later led her to purchase in 2002 the consulting
+company that would later become Pathbuilders.&lt;/p&gt;
+&lt;p&gt;During an interview for the podcast, “&lt;a href=&quot;https://www.bizjournals.com/atlanta/news/feature/on-leadership/2021&quot;&gt;On Leadership with Atlanta Business Chronicle&lt;/a&gt;,”
+Lollis said she is focused on introducing “what we do to a national
+market.”&lt;/p&gt;
+&lt;p&gt;“We had always been Atlanta-centric, but now a typical cohort
+for us has 25 companies represented, and 30 states represented,”
+Lollis said.&lt;/p&gt;
+&lt;p&gt;A typical cohort is made up of about 80 women.&lt;/p&gt;
+&lt;p&gt;Last year, the company reached a new milestone. Since its
+founding, Pathbuilders graduated more than 3,000 women from its
+flagship mentoring program called Achieva.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;To listen to past episodes of &quot;On Leadership with
+Atlanta Business Chronicle,&quot;&amp;nbsp;&lt;/em&gt;&lt;a href=&quot;https://www.bizjournals.com/atlanta/news/feature/on-leadership/2021&quot;&gt;&lt;em&gt;click here.&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&amp;nbsp;You can also provide comments at
+onleadership@bizjournals.com. &quot;On Leadership with Atlanta Business
+Chronicle&quot; is also part of the&amp;nbsp;&lt;/em&gt;&lt;a href=&quot;https://www.wabe.org/podcasts/&quot;&gt;&lt;em&gt;WABE Studios Podcast
+Network&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/12699938/2024-shot-1*200xx3840-5760-0-0.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/12699938/2024-shot-1*900xx3840-5760-0-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>Helene Lollis is president and CEO of Pathbuilders Inc.</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240305:page_22360290</guid>
+         <dc:identifier>page_22360290</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>These are America's wealthiest colleges and universities</title>
+         <dc:creator>Joanne Drilling</dc:creator>
+         <bizj:author1>Joanne Drilling</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12619128/unknown-3.jpg</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/04/wealthiest-colleges-highest-endowments.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Tue, 05 Mar 2024 01:53:09 +0000</pubDate>
+         <dcterms:modified>2024-03-05T07:37:29+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:journals>Austin Business Journal</bizj:journals>
+         <bizj:journals>Baltimore Business Journal</bizj:journals>
+         <bizj:journals>Birmingham Business Journal</bizj:journals>
+         <bizj:journals>Boston Business Journal</bizj:journals>
+         <bizj:journals>Buffalo Business First</bizj:journals>
+         <bizj:journals>Charlotte Business Journal</bizj:journals>
+         <bizj:journals>Chicago Business Journal</bizj:journals>
+         <bizj:journals>Cincinnati Business Courier</bizj:journals>
+         <bizj:journals>Cleveland Business Journal</bizj:journals>
+         <bizj:journals>Columbus Business First</bizj:journals>
+         <bizj:journals>Dallas Business Journal</bizj:journals>
+         <bizj:journals>Dayton Business Journal</bizj:journals>
+         <bizj:journals>Denver Business Journal</bizj:journals>
+         <bizj:journals>Houston Business Journal</bizj:journals>
+         <bizj:journals>Jacksonville Business Journal</bizj:journals>
+         <bizj:journals>Kansas City Business Journal</bizj:journals>
+         <bizj:journals>L.A. Business First</bizj:journals>
+         <bizj:journals>Louisville Business First</bizj:journals>
+         <bizj:journals>Memphis Business Journal</bizj:journals>
+         <bizj:journals>Milwaukee Business Journal</bizj:journals>
+         <bizj:journals>Nashville Business Journal</bizj:journals>
+         <bizj:journals>New York Business Journal</bizj:journals>
+         <bizj:journals>Orlando Business Journal</bizj:journals>
+         <bizj:journals>Pacific Business News (Honolulu)</bizj:journals>
+         <bizj:journals>Philadelphia Business Journal</bizj:journals>
+         <bizj:journals>Phoenix Business Journal</bizj:journals>
+         <bizj:journals>Pittsburgh Business Times</bizj:journals>
+         <bizj:journals>Portland Business Journal</bizj:journals>
+         <bizj:journals>Providence Business First</bizj:journals>
+         <bizj:journals>Sacramento Business Journal</bizj:journals>
+         <bizj:journals>San Antonio Business Journal</bizj:journals>
+         <bizj:journals>San Francisco Business Times</bizj:journals>
+         <bizj:journals>Silicon Valley Business Journal</bizj:journals>
+         <bizj:journals>Puget Sound Business Journal (Seattle)</bizj:journals>
+         <bizj:journals>South Florida Business Journal</bizj:journals>
+         <bizj:journals>St. Louis Business Journal</bizj:journals>
+         <bizj:journals>Tampa Bay Business Journal</bizj:journals>
+         <bizj:journals>Triad Business Journal</bizj:journals>
+         <bizj:journals>Triangle Business Journal</bizj:journals>
+         <bizj:journals>Minneapolis / St. Paul Business Journal</bizj:journals>
+         <bizj:journals>Washington Business Journal</bizj:journals>
+         <bizj:journals>Wichita Business Journal</bizj:journals>
+         <bizj:journals>Albany Business Review</bizj:journals>
+         <bizj:journals>Albuquerque Business First</bizj:journals>
+         <bizj:markets>bizjournals</bizj:markets>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:markets>austin</bizj:markets>
+         <bizj:markets>baltimore</bizj:markets>
+         <bizj:markets>birmingham</bizj:markets>
+         <bizj:markets>boston</bizj:markets>
+         <bizj:markets>buffalo</bizj:markets>
+         <bizj:markets>charlotte</bizj:markets>
+         <bizj:markets>chicago</bizj:markets>
+         <bizj:markets>cincinnati</bizj:markets>
+         <bizj:markets>cleveland</bizj:markets>
+         <bizj:markets>columbus</bizj:markets>
+         <bizj:markets>dallas</bizj:markets>
+         <bizj:markets>dayton</bizj:markets>
+         <bizj:markets>denver</bizj:markets>
+         <bizj:markets>houston</bizj:markets>
+         <bizj:markets>jacksonville</bizj:markets>
+         <bizj:markets>kansascity</bizj:markets>
+         <bizj:markets>losangeles</bizj:markets>
+         <bizj:markets>louisville</bizj:markets>
+         <bizj:markets>memphis</bizj:markets>
+         <bizj:markets>milwaukee</bizj:markets>
+         <bizj:markets>nashville</bizj:markets>
+         <bizj:markets>newyork</bizj:markets>
+         <bizj:markets>orlando</bizj:markets>
+         <bizj:markets>pacific</bizj:markets>
+         <bizj:markets>philadelphia</bizj:markets>
+         <bizj:markets>phoenix</bizj:markets>
+         <bizj:markets>pittsburgh</bizj:markets>
+         <bizj:markets>portland</bizj:markets>
+         <bizj:markets>rhodeisland</bizj:markets>
+         <bizj:markets>sacramento</bizj:markets>
+         <bizj:markets>sanantonio</bizj:markets>
+         <bizj:markets>sanfrancisco</bizj:markets>
+         <bizj:markets>sanjose</bizj:markets>
+         <bizj:markets>seattle</bizj:markets>
+         <bizj:markets>southflorida</bizj:markets>
+         <bizj:markets>stlouis</bizj:markets>
+         <bizj:markets>tampabay</bizj:markets>
+         <bizj:markets>triad</bizj:markets>
+         <bizj:markets>triangle</bizj:markets>
+         <bizj:markets>twincities</bizj:markets>
+         <bizj:markets>washington</bizj:markets>
+         <bizj:markets>wichita</bizj:markets>
+         <bizj:markets>albany</bizj:markets>
+         <bizj:markets>albuquerque</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Education</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Education</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Data Projects</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">National</category>
+         <bizj:contentscore>9</bizj:contentscore>
+         <description>It's no shock that the Ivy League fared well among the nation's wealthiest colleges and universities — but which other schools topped the list? Find out and see where your alma mater ranks.</description>
+         <content:encoded>&lt;p&gt;Endowments at the 100 wealthiest colleges in America fell by an
+average of 3.3% between 2021 and 2022, but they rose an average of
+35% since 2019.&lt;/p&gt;
+&lt;p&gt;That’s according to a recent &lt;em&gt;Business Journals&lt;/em&gt; analysis
+of data from the U.S. Department of Education.&lt;/p&gt;
+&lt;p&gt;Nationally, endowments at all U.S. colleges and universities
+with available data declined 4.5% between 2021 and 2022 but are up
+32% since 2019. &lt;a href=&quot;https://www.bizjournals.com/bizjournals/news/2022/02/24/university-endowments-2021-returns.html&quot;&gt;The early pandemic stock market boom produced
+exceptional results for some universities&lt;/a&gt;, it also widened the
+gap between the very wealthiest schools and all others.&lt;/p&gt;
+
+&lt;p&gt;While endowments support a variety of initiatives at many
+schools and are designed to ensure universities can fulfill their
+missions in the long term, &lt;a href=&quot;https://www.bizjournals.com/bizjournals/news/2022/02/24/university-endowments-2021-returns.html&quot;&gt;critics often question the purpose of the nation’s
+largest, multibillion endowments.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;While schools with the most generous endowments are
+predominantly private, several large public universities also
+appear on the list of wealthiest schools. However, due to larger
+student bodies, their endowment assets per undergrad ratios were
+considerably lower than that of the smaller, private schools.&lt;/p&gt;
+&lt;p&gt;With $6,268,062 in endowment assets per undergrad, Princeton
+University ranked as the wealthiest university in the U.S. on our
+List.&lt;/p&gt;
+&lt;p&gt;In the searchable database below, you can compare endowment
+totals for all American universities with available data from
+fiscal year 2022.&lt;/p&gt;
+&lt;p&gt;While endowment spending has exploded over the last five to 10
+years, recent returns were generally flat.&lt;/p&gt;
+&lt;p&gt;Despite the lackluster performance, some education experts still
+warn of transparency issues, especially as investments shift from
+public securities to private equity and venture capital.&lt;/p&gt;
+&lt;p&gt;“Elite, private university endowment investments remain opaque
+and secretive,” said Charlie Eaton, an economic sociologist at
+University of California at Merced, and author of “Bankers in the
+Ivory Tower: The Troubling Rise of Financiers in U.S. Higher
+Education.”&lt;/p&gt;
+&lt;p&gt;And even though endowments are commonly used to support
+scholarships, research and other academic initiatives, some schools
+are increasingly directing gifts to endowments then using
+tax-exempt municipal bonds to finance named buildings and
+facilities associated with donors.&lt;/p&gt;
+&lt;p&gt;These practices “exploit tax subsidies for donations that rarely
+go to expanding schools’ socio-economic diversity and undergraduate
+enrollments,” Eaton said.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Endowments grow at HBCUs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One trend that was evident in the research was the recent growth
+of endowments at Historically Black Colleges and Universities.&lt;/p&gt;
+&lt;p&gt;Endowments at HBCUs grew by more than $1 billion — from $3.9
+billion to $5.2 billion — between 2020 and 2021, thanks in large
+part to a $560 million gift from Mackenzie Scott. But that wasn't
+the only factor.&lt;/p&gt;
+&lt;p&gt;Last September, Atlanta’s Morehouse College issued a “call to
+action,” raising $1.5 million in 24 hours.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://www.bizjournals.com/birmingham/news/2024/01/23/lilly-endowment-100-million-uncf.html&quot;&gt;Lilly Endowment recently granted the
+United Negro College Fund $100 million&lt;/a&gt; to support the
+organization’s $1 billion capital fund. The gift was announced Jan.
+11, during a media conference at Clark Atlanta University.&lt;/p&gt;
+&lt;p&gt;Seven days later, Spelman College trustee Ronda Stryker, a
+director of Stryker Corp., a medical equipment company founded by
+her grandfather, &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2024/01/18/spelman-college-historic-donation-stryker.html&quot;&gt;pledged to give the HBCU $100 million.&lt;/a&gt;
+The bequest is the largest single gift to Spelman, for which 2022
+endowment totaled $497.7 million.&lt;/p&gt;
+&lt;p&gt;However, UC Merced’s Eaton remains concerned.&lt;/p&gt;
+&lt;p&gt;“Smaller private schools and HBCUs rarely receive comparable
+returns from private equity and hedge funds because they do not
+have access to the highest performing funds and cannot negotiate
+for the most favorable fee structure,” he said.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/10173676/howtocollegegraduation*200xx2715-1810-0-0.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/10173676/howtocollegegraduation*900xx2715-1810-0-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>Endowments at the nation's 100 wealthiest colleges in America fell by an average of 3.3% between 2021 and 2022,</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240304:page_22371376</guid>
+         <dc:identifier>page_22371376</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>Amazon buys land near Macon</title>
+         <dc:creator>Anila Yoganathan</dc:creator>
+         <bizj:author1>Anila Yoganathan</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12690065/headshot.jpg</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/04/amazon-buys-land-georgia-macon-bibb-county.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Mon, 04 Mar 2024 20:24:32 +0000</pubDate>
+         <dcterms:modified>2024-03-04T20:31:01+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Technology</category>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Commercial Real Estate</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Technology</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Commercial Real Estate</category>
+         <bizj:contentscore>9</bizj:contentscore>
+         <description>Amazon is buying up more land in Georgia.</description>
+         <content:encoded>&lt;p&gt;Amazon is back at buying up land in Georgia.&lt;/p&gt;
+&lt;p&gt;In the past couple of months the company's subsidiary, Amazon
+Data Services Inc., &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2024/01/08/amazon-subsidiary-buys-430-acres-in-covington.html&quot;&gt;acquired 430 acres in Covington&lt;/a&gt;. Another
+subsidiary recently bought about 22 acres just outside of
+Macon.&lt;/p&gt;
+&lt;p&gt;Amazon.com Services LLC, a subsidiary of Amazon.com Inc., paid
+about $1.2 million in January for the land that is about 80 miles
+south of Atlanta.&lt;/p&gt;
+
+&lt;p&gt;The land is located in an area neighboring warehouse buildings
+off of I-475, which branches off of I-75. The property is about 10
+miles from Amazon's nearby Fulfillment Center.&lt;/p&gt;
+&lt;p&gt;&quot;Although the land in question is not owned by the Macon-Bibb
+County Industrial Authority (MBCIA), we are always excited about
+the potential of existing industry expansion within Macon-Bibb
+County,&quot; a spokesperson for the Industrial Authority said.&lt;/p&gt;
+&lt;p&gt;Amazon's expansion in Georgia follows the company's &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2020/03/27/decade-of-growth-amazon-confirms-new-1-000.html&quot;&gt;multiple investments&lt;/a&gt; in the state in 2020,
+particularly in metro Atlanta. &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2020/10/19/amazon-opens-georgia-facilities.html&quot;&gt;The company has sortation centers&lt;/a&gt; in Union City,
+East Point and Jefferson. Its other fulfillment centers are located
+in Braselton, Lithia Springs, Union City and Jefferson. Amazon
+announced in 2020 it would have a new fulfillment center in
+Gwinnett County, near the Dekalb County property line.&lt;/p&gt;
+&lt;p&gt;Amazon's broker declined to comment about this sale.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/11848705/amazon-bs*200xx3603-2402-118-0.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/11848705/amazon-bs*900xx3603-2402-118-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>Amazon Sortable fulfillment center Stone Mountain</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240304:page_22371453</guid>
+         <dc:identifier>page_22371453</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>Northside Tavern gets restaurant neighbor</title>
+         <dc:creator>Chris Fuhrmeister</dc:creator>
+         <bizj:author1>Chris Fuhrmeister</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12561806/chris-fuhrmeister.jpg</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/04/yeppa-co-west-midtown-northside-tavern.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Mon, 04 Mar 2024 20:21:16 +0000</pubDate>
+         <dcterms:modified>2024-03-04T20:21:16+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Food &amp; Lifestyle</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Retailing &amp; Restaurants</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Bars</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Restaurants</category>
+         <bizj:contentscore>9</bizj:contentscore>
+         <description>An open-air bar will move into long-vacant and dilapidated building next to Northside Tavern.</description>
+         <content:encoded>&lt;p&gt;Northside Tavern, the bluesy West Midtown dive that's been in
+business for a half-century, is getting a new neighbor.&lt;/p&gt;
+&lt;p&gt;Italian restaurant Yeppa &amp; Co. is developing its third Atlanta
+location on the same property that houses Northside Tavern. The
+restaurant will move into long-vacant and dilapidated building on
+the property.&lt;/p&gt;
+&lt;p&gt;Renovations to the building will include the construction of an
+exterior pavilion canopy structure that covers approximately 2,300
+square feet, a new bar and new Americans with Disabilities
+Act-compliant restrooms, according to a building permit application
+submitted to the City of Atlanta.&lt;/p&gt;
+
+&lt;p&gt;Tommy Webb, owner of Northside Tavern and the surrounding
+property, told Atlanta Business Chronicle he is leasing out the
+space for the new restaurant. Allen Morris &amp; Co., developer of the
+massive Star Metals District mixed-use development that looms over
+Northside Tavern, is working with Webb and Yeppa &amp; Co's owners on
+the project.&lt;/p&gt;
+&lt;p&gt;Pietro Gianni and Stephen Peterson, co-owners of Atlanta Italian
+restaurants Storico Fresco, Forza Storico and Storico Vino, opened
+&lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2022/01/14/atlanta-restaurants-buckhead-village-biltong-yeppa.html&quot;&gt;Yeppa &amp; Co.'s first location in Buckhead Village&lt;/a&gt;
+in February 2023. Gianni and Peterson are developing &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2023/07/21/beltline-restaurant-yeppa-co-italian-eastside.html&quot;&gt;a second Yeppa &amp; Co. near the Atlanta BeltLine's
+Eastside Trail&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The restaurant's concept is centered on food, wine and cocktails
+from Rimini in the Emilia-Romagna region of Italy. Yeppa &amp; Co.
+serves focaccia pizzas, panini and regional pastas.&lt;/p&gt;
+&lt;p&gt;Gianni and Peterson previously planned to open an outpost for
+Pachengo's, their taqueria concept, next to Northside Tavern,
+according to planning documents submitted to the city last
+year.&lt;/p&gt;
+&lt;p&gt;Nathan Hedges, Allen Morris Co.'s managing director of
+acquisitions and development in the Southeast, and representatives
+for Yeppa &amp; Co. did not respond to requests for comment.&lt;/p&gt;
+&lt;p&gt;Webb told the Chronicle Yeppa &amp; Co. will operate an open-air bar
+with a food truck on the property.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2021/11/25/pandemic-northside-tavern-west-midtown.html&quot;&gt;Northside Tavern is an Atlanta icon&lt;/a&gt;. Webb’s
+father, Butler, bought it in 1972 and eventually converted it from
+a pool hall into a blues club.&lt;/p&gt;
+&lt;p&gt;These days, it's small island serving as a reminder of West
+Midtown's past in a sea of glittering residential and office
+development.&lt;/p&gt;
+&lt;p&gt;Years ago, he held talks with the owners of Nashville-based
+Hattie B's Hot Chicken about a location for the restaurant next to
+Northside Tavern. They couldn't reach a deal, and &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2019/08/09/hattie-b-largest-location-opening-west-midtown.html&quot;&gt;Hattie B's opened elsewhere in West Midtown&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Webb said Yeppa &amp; Co. is a good fit as a neighbor because it
+will bring patrons to the property earlier in the day. The
+restaurant will likely close earlier in the evening than Northside
+Tavern's peak hours.&lt;/p&gt;
+&lt;p&gt;&quot;This place will be winding down as we're picking up,&quot; Webb
+said.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/12150828/northside-tavern-part2-bs*200xx8256-5504-0-0.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/12150828/northside-tavern-part2-bs*900xx8256-5504-0-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>Northside Tavern.</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240304:page_22371447</guid>
+         <dc:identifier>page_22371447</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>Texas-based developer expands into Gwinnett</title>
+         <dc:creator>Janelle Ward</dc:creator>
+         <bizj:author1>Janelle Ward</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12696598/janelle-e-ward-bs2.jpg</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/04/lgi-homes-debuts-single-family-homes-gwinnett.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Mon, 04 Mar 2024 20:17:14 +0000</pubDate>
+         <dcterms:modified>2024-03-04T20:17:14+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Residential Real Estate</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Residential Real Estate</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Homebuilders</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Housing Market</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Mortgages</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Residential Real Estate Agencies</category>
+         <bizj:contentscore>10</bizj:contentscore>
+         <description>LGI Homes announced the opening of a community of single-family homes in this east Atlanta suburb.</description>
+         <content:encoded>&lt;p&gt;A Texas single-family housing developer is expanding for the
+first time into rapidly growing Gwinnett County.&lt;/p&gt;
+&lt;p&gt;LGI Homes has opened Bold Springs Farm in Dacula, a city in
+northeastern Gwinnett about 50 miles from Downtown Atlanta. The
+project offers homes in the $380,000 range, according to the
+company. That is well below the median list price for homes in
+Dacula, which measured $493,000 this past January and just over 23%
+of homes sold were over asking price.&lt;/p&gt;
+&lt;p&gt;Affordable housing options have become increasingly
+limited&amp;nbsp;&lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2024/02/14/gwinnett-county-affordable-housing-tiny-houses.html&quot;&gt;across Gwinnett County&lt;/a&gt;&amp;nbsp;as Atlanta
+natives and new residents alike &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2023/11/19/atlanta-affordabie-housing-transportation-uli.html&quot;&gt;migrate to the city’s suburbs&lt;/a&gt; in search of more
+space and cheaper prices.&lt;/p&gt;
+
+&lt;p&gt;The new development includes four detached single-family floor
+plans spanning three to five bedrooms and ranging from
+approximately 2,000 square feet to 2,600 square feet.&lt;/p&gt;
+&lt;p&gt;LGI Homes is tapping into Gwinnett's population growth. The
+county surpassed 5 million residents in 2022, according to the
+&lt;a href=&quot;https://33n.atlantaregional.com/21-county-data-dashboard&quot;&gt;Atlanta
+Regional Commission&lt;/a&gt;. Dacula increased from about 4,400
+residents in 2010 to roughly 6,800 in 2020, according to data from
+the &lt;a href=&quot;https://www.census.gov/quickfacts/fact/table/daculacitygeorgia/HSD410222&quot;&gt;U.S.
+Census&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The value for the average home in Dacula stands at approximately
+$447,000 according to Zillow’s Home Value Index, having increased
+by 1.6% over the 12-month period lasting from January 2023 to
+2024.&lt;/p&gt;
+&lt;p&gt;Home values in neighboring Lawrenceville have also increased
+year-over-year, but the median list price for houses in the city
+falls just short of $400,000, according to Zillow.&lt;/p&gt;
+&lt;p&gt;LGI Homes focuses on one-and two-story homes for families in the
+outskirts of major metropolitan cities. It uses in-house
+consultants to initiate closings and move in new residents within a
+span of 45 days. The developer now operates within 35 markets
+inside 20 U.S. states.&lt;/p&gt;
+&lt;p&gt;LGI Homes owns additional metro Atlanta
+properties in Conyers, Fairburn and Locust Grove. The company also
+manages communities in greater Athens and LaGrange.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/12703515/lgihomesboldspringsfarm*200xx3600-2400-0-0.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/12703515/lgihomesboldspringsfarm*900xx3600-2400-0-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>Photo of home inside Bold Springs Farm community</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240304:page_22371385</guid>
+         <dc:identifier>page_22371385</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>Upscale activewear brand to open Atlanta store</title>
+         <dc:creator>Rachel Cohen Noebes</dc:creator>
+         <bizj:author1>Rachel Cohen Noebes</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12688944/rachel-cohen.jpg</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/04/vuori-store-buckhead-village-retail.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Mon, 04 Mar 2024 19:22:48 +0000</pubDate>
+         <dcterms:modified>2024-03-04T19:22:48+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Retailing</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Retail Chains</category>
+         <bizj:contentscore>9</bizj:contentscore>
+         <description>The SoCal brand has become a staple in well-off millennial men’s wardrobes.</description>
+         <content:encoded>&lt;p&gt;Vuori, the Southern California activewear company that has
+become a staple in well-off millennial men’s wardrobes, is taking
+its first brick-and-mortar steps in Georgia with a shop in Buckhead
+Village.&lt;/p&gt;
+&lt;p&gt;The store will move into an existing site that is slightly over
+2,800 square feet, and the construction cost will be around $1.2
+million, according to a building permit submitted to the City of
+Atlanta.&lt;/p&gt;
+&lt;p&gt;Owner&amp;nbsp;Joe Kudla founded Vuori in a surf town outside of San
+Diego in 2015. Vuori, the Finnish word for &quot;mountain,&quot; designs
+men’s and women’s tops, joggers, outerwear and more in premium
+materials at a contemporary price point comparable to
+Lululemon.&lt;/p&gt;
+
+&lt;p&gt;In the first couple years of the company's existence, Kudla
+focused on perfecting menswear, seeing a need in the market for
+yoga and gym gear of better quality. In 2018, Kudla brought
+womenswear into the mix.&lt;/p&gt;
+&lt;p&gt;After a &lt;a href=&quot;https://www.businesswire.com/news/home/20211013005305/en/Vuori-Receives-400-Million-Investment-and-4B-Valuation-from-SoftBank-Vision-Fund-2&quot;&gt;$400 million
+investment at a $4 billion valuation&lt;/a&gt; from Softbank vision Fund
+2 in 2021, Vuori set its expansion sights high. The company
+declared it would open 100 retail locations by 2026&lt;/p&gt;
+&lt;p&gt;As of February 2024, &lt;a href=&quot;https://www.forbes.com/sites/kristenphilipkoski/2024/02/27/a-rising-athleisure-brand-sparkles-in-the-sectors-bright-future/?sh=1e0763935662&quot;&gt;Vuori had 50
+stores in 17 states&lt;/a&gt; as well as in London, Shanghai and Seoul,
+according to Forbes.&lt;/p&gt;
+&lt;p&gt;Buckhead Village is home to several upscale shops and
+restaurants. On the retail front there’s Dior, Hermès and Alice and
+Olivia, to name a few. For dining, the selection includes &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2018/09/07/wine-and-dine-le-bilboquet-atlanta-beverage.html&quot;&gt;Le Bilboquet&lt;/a&gt;, &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2022/01/14/atlanta-restaurants-buckhead-village-biltong-yeppa.html&quot;&gt;Yeppa &amp; Co.&lt;/a&gt; and Carmel.&lt;/p&gt;
+&lt;p&gt;Vuori and &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2019/07/26/how-jamestown-plans-to-bring-atlanta-back-to-the.html&quot;&gt;Jamestown Properties, the owner of Buckhead
+Village&lt;/a&gt;, did not immediately respond to requests for
+comment.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/12363894/vuori-interior*200xx2015-1343-326-0.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/12363894/vuori-interior*900xx2015-1343-326-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>Vuori is opening a 2,800-square-foot store in Atlanta's Buckhead Village.</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240304:page_22371351</guid>
+         <dc:identifier>page_22371351</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>Atlanta apartment complex sells for $115M</title>
+         <dc:creator>Amy Wenk</dc:creator>
+         <bizj:author1>Amy Wenk</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12572510/amy-wenk-2.jpg</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/04/lookout-o4w-apartment-complex-hilltop-residential.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Mon, 04 Mar 2024 18:47:16 +0000</pubDate>
+         <dcterms:modified>2024-03-05T00:45:32+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Commercial Real Estate</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Commercial Real Estate</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Craig Marbach</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Keith Oden</category>
+         <bizj:contentscore>9</bizj:contentscore>
+         <description>The property, located in Atlanta's Sweet Auburn neighborhood, has struggled with crime.</description>
+         <content:encoded>&lt;p&gt;A 592-unit apartment complex in Atlanta’s Sweet Auburn
+neighborhood has traded hands.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Houston-based Hilltop Residential acquired the more than 9-acre
+property for $115 million, according to property records. That is
+just under $200,000 per unit. The deal closed Feb. 7.&lt;/p&gt;
+&lt;p&gt;The apartment complex, now called “The Lookout at O4W,” is
+located at 180 Jackson St., near the Martin Luther King, Jr.
+National Historical Park.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bisnow.com/atlanta/news/multifamily/camden-selling-apartments-named-among-atlantas-most-dangerous-for-115m-122756&quot;&gt;Bisnow
+Atlanta first reported the sale last month&lt;/a&gt; but did not identify
+the buyer.&lt;/p&gt;
+&lt;p&gt;Hilltop Residential declined an interview request. But in a
+LinkedIn post, &lt;a href=&quot;https://www.linkedin.com/posts/craig-marbach-07787721_i-am-pleased-to-announce-that-hilltop-has-activity-7163530276315340800-ydib/&quot;&gt;Hilltop
+executive Craig Marbach said&lt;/a&gt; the company plans to renovate the
+amenities at the apartment complex, including its rooftop areas
+that overlook Downtown and Midtown.&lt;/p&gt;
+&lt;p&gt;The apartment complex, previously called Camden Vantage, has
+struggled with violence, &lt;a href=&quot;https://www.ajc.com/news/investigations/dwellings/list-dangerous-apartments/&quot;&gt;according to
+an investigation from The Atlanta-Journal Constitution&lt;/a&gt;. From
+2017 to June 2023, police reported 189 crimes at the address, the
+newspaper reported as part of its “Dangerous Dwellings” series.
+That includes the &lt;a href=&quot;https://www.fox5atlanta.com/news/girl-killed-jackson-street-apartment-shooting-atlanta&quot;&gt;fatal
+shooting of a 7-year-old girl in 2022&lt;/a&gt;, according to news
+reports.&lt;/p&gt;
+&lt;p&gt;The previous owner of the property, an affiliate of Camden
+Property Trust, said in a February earnings call that the company
+was ready to offload the apartment complex. The Camden affiliate
+had paid $82.5 million for the apartment complex in 2013, according
+to property records.&lt;/p&gt;
+&lt;p&gt;“We keep a list of and have ongoing
+conversations with our operating groups about, if there were to be
+a sale out of one of your markets or submarkets, which assets would
+be in that conversation,” Camden President Keith Oden told analysts. “And
+[Camden] Vantage almost always came up as
+one that would be on the list of management's list of assets that
+they would rather someone else take care of.”&lt;/p&gt;
+&lt;p&gt;Multifamily investment sales volume has slowed considerably in
+Atlanta, &lt;a href=&quot;https://www.bizjournals.com/atlanta/news/2024/01/22/animal-200-million-southeast-acquisitions.html&quot;&gt;dropping 68% from 2022 to 2023&lt;/a&gt;, according to data
+CoStar provided to the Chronicle in January.&lt;/p&gt;
+&lt;p&gt;Hilltop now has eight properties in Georgia, including four in
+Atlanta. Marbach, in his LinkedIn post about The Lookout at O4W,
+referenced its proximity to shopping and dining hotspots Krog
+Street Market and Ponce City Market.&lt;/p&gt;
+&lt;p&gt;&quot;We look forward to continuing to grow Hilltop's portfolio in
+Atlanta and throughout the Southeast and Texas,&quot; he said in the
+social media post.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/12703374/img1663*200xx4032-2688-0-168.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/12703374/img1663*900xx4032-2688-0-168.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>An Atlanta apartment complex has sold for $115 million to a Houston-based firm.</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240304:page_22367844</guid>
+         <dc:identifier>page_22367844</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>Bankruptcy filings are on the rise, but a larger surge is looming</title>
+         <dc:creator>Andy Medici</dc:creator>
+         <bizj:author1>Andy Medici</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/12441344/dsc076961.jpg</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/04/inflation-pay-covid-bankruptcy-pandemic-loans.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Mon, 04 Mar 2024 17:45:49 +0000</pubDate>
+         <dcterms:modified>2024-03-05T16:28:53+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Albany Business Review</bizj:journals>
+         <bizj:journals>Albuquerque Business First</bizj:journals>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:journals>Austin Business Journal</bizj:journals>
+         <bizj:journals>Baltimore Business Journal</bizj:journals>
+         <bizj:journals>Birmingham Business Journal</bizj:journals>
+         <bizj:journals>Boston Business Journal</bizj:journals>
+         <bizj:journals>Buffalo Business First</bizj:journals>
+         <bizj:journals>Charlotte Business Journal</bizj:journals>
+         <bizj:journals>Chicago Business Journal</bizj:journals>
+         <bizj:journals>Cincinnati Business Courier</bizj:journals>
+         <bizj:journals>Cleveland Business Journal</bizj:journals>
+         <bizj:journals>Columbus Business First</bizj:journals>
+         <bizj:journals>Dallas Business Journal</bizj:journals>
+         <bizj:journals>Dayton Business Journal</bizj:journals>
+         <bizj:journals>Denver Business Journal</bizj:journals>
+         <bizj:journals>Houston Business Journal</bizj:journals>
+         <bizj:journals>Jacksonville Business Journal</bizj:journals>
+         <bizj:journals>Kansas City Business Journal</bizj:journals>
+         <bizj:journals>L.A. Business First</bizj:journals>
+         <bizj:journals>Louisville Business First</bizj:journals>
+         <bizj:journals>Memphis Business Journal</bizj:journals>
+         <bizj:journals>Milwaukee Business Journal</bizj:journals>
+         <bizj:journals>Nashville Business Journal</bizj:journals>
+         <bizj:journals>New York Business Journal</bizj:journals>
+         <bizj:journals>Orlando Business Journal</bizj:journals>
+         <bizj:journals>Pacific Business News (Honolulu)</bizj:journals>
+         <bizj:journals>Philadelphia Business Journal</bizj:journals>
+         <bizj:journals>Phoenix Business Journal</bizj:journals>
+         <bizj:journals>Pittsburgh Business Times</bizj:journals>
+         <bizj:journals>Portland Business Journal</bizj:journals>
+         <bizj:journals>Providence Business First</bizj:journals>
+         <bizj:journals>Sacramento Business Journal</bizj:journals>
+         <bizj:journals>San Antonio Business Journal</bizj:journals>
+         <bizj:journals>San Francisco Business Times</bizj:journals>
+         <bizj:journals>Silicon Valley Business Journal</bizj:journals>
+         <bizj:journals>Puget Sound Business Journal (Seattle)</bizj:journals>
+         <bizj:journals>South Florida Business Journal</bizj:journals>
+         <bizj:journals>St. Louis Business Journal</bizj:journals>
+         <bizj:journals>Tampa Bay Business Journal</bizj:journals>
+         <bizj:journals>Triad Business Journal</bizj:journals>
+         <bizj:journals>Triangle Business Journal</bizj:journals>
+         <bizj:journals>Minneapolis / St. Paul Business Journal</bizj:journals>
+         <bizj:journals>Washington Business Journal</bizj:journals>
+         <bizj:journals>Wichita Business Journal</bizj:journals>
+         <bizj:markets>bizjournals</bizj:markets>
+         <bizj:markets>albany</bizj:markets>
+         <bizj:markets>albuquerque</bizj:markets>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:markets>austin</bizj:markets>
+         <bizj:markets>baltimore</bizj:markets>
+         <bizj:markets>birmingham</bizj:markets>
+         <bizj:markets>boston</bizj:markets>
+         <bizj:markets>buffalo</bizj:markets>
+         <bizj:markets>charlotte</bizj:markets>
+         <bizj:markets>chicago</bizj:markets>
+         <bizj:markets>cincinnati</bizj:markets>
+         <bizj:markets>cleveland</bizj:markets>
+         <bizj:markets>columbus</bizj:markets>
+         <bizj:markets>dallas</bizj:markets>
+         <bizj:markets>dayton</bizj:markets>
+         <bizj:markets>denver</bizj:markets>
+         <bizj:markets>houston</bizj:markets>
+         <bizj:markets>jacksonville</bizj:markets>
+         <bizj:markets>kansascity</bizj:markets>
+         <bizj:markets>losangeles</bizj:markets>
+         <bizj:markets>louisville</bizj:markets>
+         <bizj:markets>memphis</bizj:markets>
+         <bizj:markets>milwaukee</bizj:markets>
+         <bizj:markets>nashville</bizj:markets>
+         <bizj:markets>newyork</bizj:markets>
+         <bizj:markets>orlando</bizj:markets>
+         <bizj:markets>pacific</bizj:markets>
+         <bizj:markets>philadelphia</bizj:markets>
+         <bizj:markets>phoenix</bizj:markets>
+         <bizj:markets>pittsburgh</bizj:markets>
+         <bizj:markets>portland</bizj:markets>
+         <bizj:markets>rhodeisland</bizj:markets>
+         <bizj:markets>sacramento</bizj:markets>
+         <bizj:markets>sanantonio</bizj:markets>
+         <bizj:markets>sanfrancisco</bizj:markets>
+         <bizj:markets>sanjose</bizj:markets>
+         <bizj:markets>seattle</bizj:markets>
+         <bizj:markets>southflorida</bizj:markets>
+         <bizj:markets>stlouis</bizj:markets>
+         <bizj:markets>tampabay</bizj:markets>
+         <bizj:markets>triad</bizj:markets>
+         <bizj:markets>triangle</bizj:markets>
+         <bizj:markets>twincities</bizj:markets>
+         <bizj:markets>washington</bizj:markets>
+         <bizj:markets>wichita</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/category/">The Playbook</category>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Banking &amp; Financial Services</category>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Government &amp; Regulations</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Banking &amp; Financial Services</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Coronavirus</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">National</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">Playbook</category>
+         <bizj:contentscore>10</bizj:contentscore>
+         <description>Bankruptcies are trending upward after years of decline, and there are several factors experts believe will fuel a larger surge in filings in the years to come.</description>
+         <content:encoded>&lt;p&gt;Bankruptcies are on the rise as pandemic-related relief measures
+come to an end and higher interest rates push business owners over
+the edge.&lt;/p&gt;
+&lt;p&gt;Bankruptcy filings of all types peaked at around 1.6 million in
+2010, during the height of the Great Recession, and plateaued at
+around 774,000 annually in the years leading up to the Covid-19
+pandemic. In the subsequent years, with a host of relief programs
+for individuals, families and businesses taking effect, the number
+of annual filings slid to about 388,000, &lt;a href=&quot;https://www.uscourts.gov/statistics-reports/analysis-reports/bankruptcy-filings-statistics/bankruptcy-statistics-data&quot;&gt;according to
+data from the Administrative Office of the U.S. Courts on behalf of
+the Federal Judiciary&lt;/a&gt;. That number increased to about 453,000
+last year, and experts expect it will continue to rise in the
+months and years to come.&lt;/p&gt;
+&lt;p&gt;During the height of the pandemic, many Americans received
+relief payments from the federal government — either in the form of
+stimulus checks or an expanded child tax credit. People with
+student loans saw their payments and interest rates freeze.&lt;/p&gt;
+
+&lt;p&gt;Eric Kurtzman, CEO at Stretto, a bankruptcy services and
+technology firm, said while Americans benefited from those and
+other relief measures, that same combination of forces led to a hot
+economy that pushed the Federal Reserve to raise interest
+rates.&lt;/p&gt;
+&lt;p&gt;“We had a great couple years as an economy,” Kurtzman said.
+“What didn’t happen during that time was any kind of financial
+lessons. It’s not like our country got a group class on how to be
+financially solvent and mature.”&lt;/p&gt;
+&lt;p&gt;Now, with interest rates higher, people and businesses that
+didn’t lock in low rates on mortgages or other debt are seeing the
+impact of rising rates, and many are finding themselves unable to
+handle obligations that had been temporarily forestalled during the
+pandemic.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;“We are still nowhere near a normal year of bankruptcy filings,&quot;
+Kurtzman said. &quot;We’ve got quite a bit of growing to do before we
+reach a normal year. We are going to see a larger than normal year
+come before it starts to decelerate. It may take us two years to
+get there.”&lt;/p&gt;
+&lt;p&gt;In the wake of the pandemic, the lineup of federal support
+programs made available to business owners included the Paycheck
+Protection Program, the Shuttered Venue Operators Grant program and
+the Employee Retention Credit program. Those and other relief
+programs likely kept many small businesses solvent that wouldn’t
+have survived the pandemic years without the support, Kurtzman
+said, but the programs also kept afloat a number of businesses that
+would have shuttered even without the pandemic — creating a sort of
+time-delayed bankruptcy backlog that's emerging now.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.newyorkfed.org/newsevents/news/research/2024/20240206&quot;&gt;Total
+household debt rose by $212 billion in the fourth quarter of
+2023&lt;/a&gt;, continuing an upward trajectory that began in about 2011,
+according to data from the Federal Reserve.&amp;nbsp;Loan-delinquency
+rates continue to rise, as well, with 3.1% of that debt in some
+stage of delinquency, and credit card balances and auto loans
+seeing the largest annual delinquency increases.&amp;nbsp;About 1.42%
+of all debt was at least 90 days delinquent as of the end of 2023,
+up from 1.03% at the end of 2022.&lt;/p&gt;
+&lt;p&gt;Jessika Arce Graham, a partner at Weiss Serota Helfman Cole &amp;
+Bierman, said many corporate clients prefer out-of-court
+restructurings over formal insolvencies.&amp;nbsp;However, since
+interest rates are higher and cheaper financing is no longer
+available, many business owners may have exhausted their funding
+and will have no choice but to file for bankruptcy going
+forward.&lt;/p&gt;
+&lt;p&gt;“We will continue to see a steady rise in bankruptcies across
+all chapters in the coming years as both businesses and individuals
+grapple with debt, inflation and high interest rates,” Graham said
+in an email.&lt;/p&gt;
+&lt;p&gt;Larger companies already are seeing a substantial surge in
+bankruptcy filings, &lt;a href=&quot;https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/us-bankruptcies-hit-13-year-peak-in-2023-50-new-filings-in-december-79967180&quot;&gt;according to
+data from S&amp;P Global Market Intelligence,&lt;/a&gt; which tracked
+bankruptcies for public companies and for private companies with
+either public debt of more than $2 million or with assets or
+liabilities above $10 million.&lt;/p&gt;
+&lt;p&gt;By that metric, bankruptcies hit 642 in 2023, the highest annual
+mark since 2010 and far above the 372 recorded in 2022.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Scott Stuart, CEO of Turnaround Management Association, said
+it's not guaranteed that bankruptcies will return to pre-pandemic
+levels, as &lt;a href=&quot;https://www.bizjournals.com/bizjournals/news/2024/01/18/pay-raises-salary-wages-profit-economy-recession.html&quot;&gt;a potential recession appears to have been avoided in
+favor of a &quot;soft landing&quot; for the economy, and indicators point to
+a better road ahead&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;However, companies that were in poor shape before the pandemic
+or were surviving on low-interest loans and government assistance
+won’t be able to do so in the years to come, Stuart said.&lt;/p&gt;
+&lt;p&gt;“As we continue to be in a period of unsettledness where cost of
+money remains high and business stresses can no longer be masked by
+stimulus money or low-cost, covenant-lite loans, we are ‘cleaning
+house’ by seeing the realities of long-troubled business rise to
+the surface,&quot; Stuart said in an email. &quot;That and normal sector
+volatility are driving this current cycle.&quot;&lt;/p&gt;
+&lt;p&gt;Americans in general are not currently happy with their state of
+finances. A new &lt;a href=&quot;https://americanstaffing.net/asa-workforce-monitor/paycheck-inflation/&quot;&gt;ASA Workforce
+Monitor study from the American Staffing Association and The Harris
+Poll&lt;/a&gt; found that 53% of respondents said their paychecks were
+not keeping up with inflation. Additionally, 38% said their overall
+financial situation was more stressful than it was a year ago.&lt;/p&gt;
+&lt;p&gt;“The data may project a soft landing for the economy, but the
+bank accounts of America’s workers are telling a different story,”
+said ASA CEO Richard Wahlquist, in a statement with the poll
+results. “U.S. workers are stressed about the adequacy of their
+paychecks and their ability to save for their future.”&lt;/p&gt;
+&lt;p&gt;The results come at a time when inflation has fallen from its
+pandemic-era high. In 2021, annual inflation was about 7%,
+declining to 6.5% in 2022 and 3.2% in 2023, according to the Labor
+Department. At the same time, according to the Bureau of Economic
+Analysis, wages on average grew 6.7% in 2023 compared to the year
+before, up from a 5% annual growth rate seen in 2022. Those
+wage-growth rates are higher than the rates seen before the
+pandemic, and experts say wage growth likely will remain at a pace
+that's at least slightly elevated over pre-pandemic levels.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/12149429/gettyimages-184324155*200xx4248-2832-4-0.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/12149429/gettyimages-184324155*900xx4248-2832-4-0.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>The number of total bankruptcy filings reached about 453,000 last year after having been around 388,000 annually in the years immediately following the onset of the pandemic.</media:text>
+         </media:content>
+      </item>
+      <item>
+         <guid>urn:rss:bizjournals.com:20240304:page_22371203</guid>
+         <dc:identifier>page_22371203</dc:identifier>
+         <bizj:subtype>page</bizj:subtype>
+         <title>Class A space isn't a guaranteed winner for post-pandemic offices</title>
+         <dc:creator>Ashley Fahey</dc:creator>
+         <bizj:author1>Ashley Fahey</bizj:author1>
+         <bizj:authorimage1>https://media.bizj.us/view/img/10365992/ashley-fahey-sil.png</bizj:authorimage1>
+         <dc:type>Premium</dc:type>
+         <link>https://www.bizjournals.com/atlanta/news/2024/03/04/class-a-office-space-flight-to-quality.html??utm_source=ma&amp;utm_medium=dr&amp;utm_campaign=rss&amp;utm_content=general</link>
+         <pubDate>Mon, 04 Mar 2024 17:09:55 +0000</pubDate>
+         <dcterms:modified>2024-03-04T22:08:04+00:00</dcterms:modified>
+         <bizj:journal>Atlanta Business Chronicle</bizj:journal>
+         <bizj:journals>Albany Business Review</bizj:journals>
+         <bizj:journals>Albuquerque Business First</bizj:journals>
+         <bizj:journals>Atlanta Business Chronicle</bizj:journals>
+         <bizj:journals>Austin Business Journal</bizj:journals>
+         <bizj:journals>Baltimore Business Journal</bizj:journals>
+         <bizj:journals>Birmingham Business Journal</bizj:journals>
+         <bizj:journals>Boston Business Journal</bizj:journals>
+         <bizj:journals>Buffalo Business First</bizj:journals>
+         <bizj:journals>Charlotte Business Journal</bizj:journals>
+         <bizj:journals>Chicago Business Journal</bizj:journals>
+         <bizj:journals>Cincinnati Business Courier</bizj:journals>
+         <bizj:journals>Cleveland Business Journal</bizj:journals>
+         <bizj:journals>Columbus Business First</bizj:journals>
+         <bizj:journals>Dallas Business Journal</bizj:journals>
+         <bizj:journals>Dayton Business Journal</bizj:journals>
+         <bizj:journals>Denver Business Journal</bizj:journals>
+         <bizj:journals>Houston Business Journal</bizj:journals>
+         <bizj:journals>Jacksonville Business Journal</bizj:journals>
+         <bizj:journals>Kansas City Business Journal</bizj:journals>
+         <bizj:journals>L.A. Business First</bizj:journals>
+         <bizj:journals>Louisville Business First</bizj:journals>
+         <bizj:journals>Memphis Business Journal</bizj:journals>
+         <bizj:journals>Milwaukee Business Journal</bizj:journals>
+         <bizj:journals>Nashville Business Journal</bizj:journals>
+         <bizj:journals>New York Business Journal</bizj:journals>
+         <bizj:journals>Orlando Business Journal</bizj:journals>
+         <bizj:journals>Pacific Business News (Honolulu)</bizj:journals>
+         <bizj:journals>Philadelphia Business Journal</bizj:journals>
+         <bizj:journals>Phoenix Business Journal</bizj:journals>
+         <bizj:journals>Pittsburgh Business Times</bizj:journals>
+         <bizj:journals>Portland Business Journal</bizj:journals>
+         <bizj:journals>Providence Business First</bizj:journals>
+         <bizj:journals>Sacramento Business Journal</bizj:journals>
+         <bizj:journals>San Antonio Business Journal</bizj:journals>
+         <bizj:journals>San Francisco Business Times</bizj:journals>
+         <bizj:journals>Silicon Valley Business Journal</bizj:journals>
+         <bizj:journals>Puget Sound Business Journal (Seattle)</bizj:journals>
+         <bizj:journals>South Florida Business Journal</bizj:journals>
+         <bizj:journals>St. Louis Business Journal</bizj:journals>
+         <bizj:journals>Tampa Bay Business Journal</bizj:journals>
+         <bizj:journals>Triad Business Journal</bizj:journals>
+         <bizj:journals>Triangle Business Journal</bizj:journals>
+         <bizj:journals>Minneapolis / St. Paul Business Journal</bizj:journals>
+         <bizj:journals>Washington Business Journal</bizj:journals>
+         <bizj:journals>Wichita Business Journal</bizj:journals>
+         <bizj:markets>bizjournals</bizj:markets>
+         <bizj:markets>albany</bizj:markets>
+         <bizj:markets>albuquerque</bizj:markets>
+         <bizj:markets>atlanta</bizj:markets>
+         <bizj:markets>austin</bizj:markets>
+         <bizj:markets>baltimore</bizj:markets>
+         <bizj:markets>birmingham</bizj:markets>
+         <bizj:markets>boston</bizj:markets>
+         <bizj:markets>buffalo</bizj:markets>
+         <bizj:markets>charlotte</bizj:markets>
+         <bizj:markets>chicago</bizj:markets>
+         <bizj:markets>cincinnati</bizj:markets>
+         <bizj:markets>cleveland</bizj:markets>
+         <bizj:markets>columbus</bizj:markets>
+         <bizj:markets>dallas</bizj:markets>
+         <bizj:markets>dayton</bizj:markets>
+         <bizj:markets>denver</bizj:markets>
+         <bizj:markets>houston</bizj:markets>
+         <bizj:markets>jacksonville</bizj:markets>
+         <bizj:markets>kansascity</bizj:markets>
+         <bizj:markets>losangeles</bizj:markets>
+         <bizj:markets>louisville</bizj:markets>
+         <bizj:markets>memphis</bizj:markets>
+         <bizj:markets>milwaukee</bizj:markets>
+         <bizj:markets>nashville</bizj:markets>
+         <bizj:markets>newyork</bizj:markets>
+         <bizj:markets>orlando</bizj:markets>
+         <bizj:markets>pacific</bizj:markets>
+         <bizj:markets>philadelphia</bizj:markets>
+         <bizj:markets>phoenix</bizj:markets>
+         <bizj:markets>pittsburgh</bizj:markets>
+         <bizj:markets>portland</bizj:markets>
+         <bizj:markets>rhodeisland</bizj:markets>
+         <bizj:markets>sacramento</bizj:markets>
+         <bizj:markets>sanantonio</bizj:markets>
+         <bizj:markets>sanfrancisco</bizj:markets>
+         <bizj:markets>sanjose</bizj:markets>
+         <bizj:markets>seattle</bizj:markets>
+         <bizj:markets>southflorida</bizj:markets>
+         <bizj:markets>stlouis</bizj:markets>
+         <bizj:markets>tampabay</bizj:markets>
+         <bizj:markets>triad</bizj:markets>
+         <bizj:markets>triangle</bizj:markets>
+         <bizj:markets>twincities</bizj:markets>
+         <bizj:markets>washington</bizj:markets>
+         <bizj:markets>wichita</bizj:markets>
+         <bizj:market>atlanta</bizj:market>
+         <source url="https://www.bizjournals.com/atlanta/">Atlanta Business Chronicle</source>
+         <category domain="http://bizjournals.com/ns/rss/channel/">Commercial Real Estate</category>
+         <category domain="http://bizjournals.com/ns/rss/industry/">Commercial Real Estate</category>
+         <category domain="http://bizjournals.com/ns/rss/person/">Thomas LaSalvia</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">National</category>
+         <category domain="http://bizjournals.com/ns/rss/tag/">The National Observer</category>
+         <bizj:contentscore>9</bizj:contentscore>
+         <description>A preference for “trophy” office space has been cited frequently as a key driver of corporate real estate decisions post-pandemic, but more than building amenities are playing into companies' choices.</description>
+         <content:encoded>&lt;p&gt;A preference for the newest, so-called &quot;trophy&quot; office space has
+been frequently cited as a key driver of corporate decision-making
+when it comes to business sites, especially since the Covid-19
+pandemic.&lt;/p&gt;
+&lt;p&gt;That preference may ultimately be less about which buildings
+offer the best fitness or conference centers and instead be more
+about where those buildings are located.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Stay on top of the latest real estate news
+by&amp;nbsp;&lt;/em&gt;&lt;a href=&quot;https://www.bizjournals.com/bizjournals/newsletters&quot;&gt;&lt;em&gt;signing up here for The National Observer: Real Estate
+Edition.&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&quot;This flight-to-quality narrative may be a bit played out at
+this point, or at least it seems to be used in an incorrect way by
+some,&quot; said Thomas LaSalvia, head of commercial real estate
+economics at Moody's Analytics Inc., during a forecast event last
+week.&lt;/p&gt;
+&lt;p&gt;&quot;To me, this evolution in office is more about metros and
+neighborhoods — where buildings, regardless of class, are either
+going to do quite well over the next few years or they’re going to
+become obsolete,&quot; LaSalvia said. &quot;It really turns out that the old
+saying 'location, location, location' is still incredibly valuable,
+and maybe more than ever in this asset class, as we move toward
+employees wanting to be in vibrant neighborhoods, where there
+actually are amenities even outside of what that Class A building
+can provide.&quot;&lt;/p&gt;
+&lt;p&gt;In a follow-up email, LaSalvia said no large-scale study has
+been done to underscore a flight-to-neighborhood preference versus
+tenants picking the newest or most amenitized buildings in a market
+independent of location. But he cited the Penn Station submarket in
+Manhattan — which includes the massive Hudson Yards mixed-use
+development and district — as an example of the trend.&lt;/p&gt;
+&lt;p&gt;Compared to other submarkets like Midtown South, Midtown West
+and South Broadway, the Penn Station submarket is outperforming on
+effective rent — with a year-over-year gain of 6.5% compared to
+3.6% or less in six other Manhattan office submarkets, according to
+Moody's. It has a vacancy rate of 9.4% compared to double-digit
+vacancy in other nearby submarkets, and had positive absorption of
+more than 2 million square feet in 2023, according to LaSalvia.&lt;/p&gt;
+&lt;p&gt;San Francisco-based Wells Fargo &amp; Co. is among the companies
+&lt;a href=&quot;https://www.bizjournals.com/newyork/news/2023/11/28/wells-fargo-hudson-yards.html&quot;&gt;that have expanded their office footprint&lt;/a&gt; at
+Hudson Yards.&lt;/p&gt;
+&lt;p&gt;Many of the newest buildings in a given office market are being
+developed or are finishing construction in the most desirable
+neighborhoods, which may mean, in some cases, the flight-to-quality
+and flight-to-neighborhood trend look one and the same.&lt;/p&gt;
+&lt;p&gt;But the picture likely is more nuanced than that and may
+ultimately hinge on the dynamics of a specific municipality or
+submarket.&lt;/p&gt;
+&lt;p&gt;A recent report by Commercial Edge, part of Yardi Systems Inc.,
+found average office rental rates for Class A and A-plus space
+decreased by 2% between January 2023 and January 2024, to $45.78
+per square foot. At the same time, Class B office rates edged up
+0.4%, to $30.22 per square foot, while Class C properties saw an
+increase of 5.7%, to $23.23 year-over-year.&lt;/p&gt;
+&lt;p&gt;In that same time period, rents at suburban office properties
+increased 0.3%, to $30.56 per square foot, on an annual basis.
+Rents for Central Business District office spaces dropped 7.3%, to
+$47.70 per square foot, while rates at urban offices fell 0.5%, to
+$43.53 per square foot year-over-year, according to Commercial
+Edge.&lt;/p&gt;
+&lt;p&gt;Further, a recent analysis by commercial real estate data
+company CompStak Inc. found effective rents for New York's &quot;prime&quot;
+Class A office space — considered to be new construction, trophy
+space or a property that was recently renovated — are up from 2019
+on the whole but dipped in the past two quarters. Effective rents
+for that so-called prime Class A office space are up 18.8% from the
+2019 quarterly average, compared to 2023 levels.&lt;/p&gt;
+&lt;p&gt;Experts focused on both the office market and the revitalization
+of downtowns say companies today want to be in specific
+neighborhoods, and those locations are less likely to be a
+traditional financial district or office-dominant Central Business
+District than in years past.&lt;/p&gt;
+&lt;p&gt;Some city and economic-development officials &lt;a href=&quot;https://www.bizjournals.com/bizjournals/news/2024/02/21/downtowns-central-business-districts-rebrand.html&quot;&gt;are abandoning the term CBD altogether&lt;/a&gt; in favor
+of emphasizing a diversity of uses and draws to the urban core
+instead.&lt;/p&gt;
+         </content:encoded>
+         <media:thumbnail url="https://media.bizj.us/view/img/11845464/img7679*200xx4023-2678-0-346.jpg"/>
+         <media:content url="https://media.bizj.us/view/img/11845464/img7679*900xx4023-2678-0-346.jpg" medium="image">
+            <media:category>image</media:category>
+            <media:text>The flight-to-quality and flight-to-neighborhood trends may look the same in select markets across the country, including in New York City (seen here).</media:text>
+         </media:content>
+      </item>
+   </channel>
+</rss>
