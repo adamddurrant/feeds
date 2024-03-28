@@ -3,6 +3,7 @@
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:stylistData="http://stylist.com/xml-namespaces/v1/stylistData"
 	xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
 		<title>Stylist Pugpig RSS Feed</title>
@@ -1476,7 +1477,7 @@ Also consider:</b></p>
 			<atom:updated>2024-03-27T11:28:53+00:00</atom:updated>
 			<stylistData:sponsorName>Goodwood Revial</stylistData:sponsorName>
 			<stylistData:sponsorLogo>https://images-stylist.s3-eu-west-1.amazonaws.com/app/uploads/2024/02/07103716/goodwood-revival-logo-mono-1.png</stylistData:sponsorLogo>
-			<stylistData:sponsorLink><![CDATA[https://www.goodwood.com/motorsport/goodwood-revival/?utm_source=&amp;utm_medium=other&amp;utm_campaign=REV%20-%20Stylist%20editorial%20-%20MAR24]]></stylistData:sponsorLink>
+			<stylistData:sponsor><![CDATA[https://www.goodwood.com/motorsport/goodwood-revival/?utm_source=&amp;utm_medium=other&amp;utm_campaign=REV%20-%20Stylist%20editorial%20-%20MAR24]]></stylistData:sponsor>
 			<stylistData:sponsorIntro>advertorial with</stylistData:sponsorIntro>
 			<content:encoded><![CDATA[<p>Ready to raise your thrifting game? Whether youâ€™re a seasoned thrifter or just dipping a toe into the world of all things second-hand, immerse yourself in 40s, 50s and 60s style at the home of incredible vintage: Goodwood Revival.</p>
 <p>From 6-8 September, Goodwood Revival is bringing together a stellar line-up of stylists, content creators and TV stars for the biggest celebration of second-hand in the UK. From exciting panel talks and shows on the Revive & Thrive Stage â€“ inspiring creative ways to rethink, repair and re-wear iconic looks â€“ to sewing workshops, a vintage fairground, an outdoor cinema, buzzing dancefloors, classic cars, a 1960s hair salon and the very best pre-loved shopping, itâ€™s an unmissable day out for fans of vintage style.</p>
